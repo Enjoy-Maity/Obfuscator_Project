@@ -1,0 +1,137 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="105">
+            <item index="0" class="java.lang.String" itemvalue="PySide6.QtGui.QImage" />
+            <item index="1" class="java.lang.String" itemvalue="PySide6.QtWidgets.QDialog" />
+            <item index="2" class="java.lang.String" itemvalue="PySide6.QtWidgets.QSpacerItem" />
+            <item index="3" class="java.lang.String" itemvalue="PySide6.QtGui.QCursor" />
+            <item index="4" class="java.lang.String" itemvalue="PySide6.QtWidgets.QAbstractItemView" />
+            <item index="5" class="java.lang.String" itemvalue="PySide6.QtWidgets.QComboBox" />
+            <item index="6" class="java.lang.String" itemvalue="PySide6.QtGui.QPainter" />
+            <item index="7" class="java.lang.String" itemvalue="datetime" />
+            <item index="8" class="java.lang.String" itemvalue="pathlib" />
+            <item index="9" class="java.lang.String" itemvalue="PySide6.QtWidgets.QFrame" />
+            <item index="10" class="java.lang.String" itemvalue="PySide6.QtGui.QShortCut" />
+            <item index="11" class="java.lang.String" itemvalue="PySide6.QtGui.QFont" />
+            <item index="12" class="java.lang.String" itemvalue="GUI" />
+            <item index="13" class="java.lang.String" itemvalue="PySide6.QtGui.QLinearGradient" />
+            <item index="14" class="java.lang.String" itemvalue="traceback" />
+            <item index="15" class="java.lang.String" itemvalue="PySide6.QtWidgets.QWidget" />
+            <item index="16" class="java.lang.String" itemvalue="PySide6.QtGui.QKeySequence" />
+            <item index="17" class="java.lang.String" itemvalue="PySide6.QtCore.QMetaObject" />
+            <item index="18" class="java.lang.String" itemvalue="PySide6.QtCore.QLocale" />
+            <item index="19" class="java.lang.String" itemvalue="PySide6.QtCore.QAbstractTableModel" />
+            <item index="20" class="java.lang.String" itemvalue="PySide6.QtCore.QRect" />
+            <item index="21" class="java.lang.String" itemvalue="PySide6.QtWidgets.QGridLayout" />
+            <item index="22" class="java.lang.String" itemvalue="PySide6.QtWidgets.QVBoxLayout" />
+            <item index="23" class="java.lang.String" itemvalue="Nokia.Nokia_Section_Running_Config_Checks" />
+            <item index="24" class="java.lang.String" itemvalue="PySide6.QtGui.QFontDatabase" />
+            <item index="25" class="java.lang.String" itemvalue="PySide6.QtGui.QRadialGradient" />
+            <item index="26" class="java.lang.String" itemvalue="PySide6.QtGui.QTransform" />
+            <item index="27" class="java.lang.String" itemvalue="PySide6.QtCore.QCoreApplication" />
+            <item index="28" class="java.lang.String" itemvalue="PySide6.QtWidgets.QHeaderView" />
+            <item index="29" class="java.lang.String" itemvalue="logging" />
+            <item index="30" class="java.lang.String" itemvalue="PySide6.QtCore.QSize" />
+            <item index="31" class="java.lang.String" itemvalue="PySide6.QtCore.QPoint" />
+            <item index="32" class="java.lang.String" itemvalue="sqlite3" />
+            <item index="33" class="java.lang.String" itemvalue="PySide6.QtWidgets.QGroupBox" />
+            <item index="34" class="java.lang.String" itemvalue="PySide6.QtGui.QPalette" />
+            <item index="35" class="java.lang.String" itemvalue="sys" />
+            <item index="36" class="java.lang.String" itemvalue="PySide6.QWidgets.QSplashScreen" />
+            <item index="37" class="java.lang.String" itemvalue="pickle" />
+            <item index="38" class="java.lang.String" itemvalue="PySide6.QtCore.QTime" />
+            <item index="39" class="java.lang.String" itemvalue="PySide6.QtWidgets.QLabel" />
+            <item index="40" class="java.lang.String" itemvalue="importlib" />
+            <item index="41" class="java.lang.String" itemvalue="PySide6.QtWidgets.QSizePolicy" />
+            <item index="42" class="java.lang.String" itemvalue="PySide6.QtWidgets.QPushButton" />
+            <item index="43" class="java.lang.String" itemvalue="PySide6.QtCore.QDate" />
+            <item index="44" class="java.lang.String" itemvalue="PySide6.QtWidgets.QHBoxLayout" />
+            <item index="45" class="java.lang.String" itemvalue="Nokia.Nokia_Section_Template_Checks" />
+            <item index="46" class="java.lang.String" itemvalue="abc" />
+            <item index="47" class="java.lang.String" itemvalue="PySide6.QtCore.QObject" />
+            <item index="48" class="java.lang.String" itemvalue="os" />
+            <item index="49" class="java.lang.String" itemvalue="PySide6.QtGui.QColor" />
+            <item index="50" class="java.lang.String" itemvalue="PySide6.QtCore.QDateTime" />
+            <item index="51" class="java.lang.String" itemvalue="PySide6.QtCore.QUrl" />
+            <item index="52" class="java.lang.String" itemvalue="PySide6.QtCore.Qt" />
+            <item index="53" class="java.lang.String" itemvalue="PySide6.QtWidgets.QMessageBox" />
+            <item index="54" class="java.lang.String" itemvalue="PySide6.QtGui.QIcon" />
+            <item index="55" class="java.lang.String" itemvalue="PySide6.QtGui.QGradient" />
+            <item index="56" class="java.lang.String" itemvalue="PySide6.QtWidgets.QApplication" />
+            <item index="57" class="java.lang.String" itemvalue="PySide6.QtGui.QConicalGradient" />
+            <item index="58" class="java.lang.String" itemvalue="PySide6.QtWidgets.QTableView" />
+            <item index="59" class="java.lang.String" itemvalue="PySide6.QtWidgets.QLineEdit" />
+            <item index="60" class="java.lang.String" itemvalue="PySide6.QtGui.QPixmap" />
+            <item index="61" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="62" class="java.lang.String" itemvalue="altgraph" />
+            <item index="63" class="java.lang.String" itemvalue="greenlet" />
+            <item index="64" class="java.lang.String" itemvalue="tabulate" />
+            <item index="65" class="java.lang.String" itemvalue="pluggy" />
+            <item index="66" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="67" class="java.lang.String" itemvalue="cffi" />
+            <item index="68" class="java.lang.String" itemvalue="setuptools" />
+            <item index="69" class="java.lang.String" itemvalue="bottle" />
+            <item index="70" class="java.lang.String" itemvalue="numpy" />
+            <item index="71" class="java.lang.String" itemvalue="pyarmor.cli.core" />
+            <item index="72" class="java.lang.String" itemvalue="pycparser" />
+            <item index="73" class="java.lang.String" itemvalue="requests" />
+            <item index="74" class="java.lang.String" itemvalue="shiboken6" />
+            <item index="75" class="java.lang.String" itemvalue="gevent-websocket" />
+            <item index="76" class="java.lang.String" itemvalue="pip" />
+            <item index="77" class="java.lang.String" itemvalue="whichcraft" />
+            <item index="78" class="java.lang.String" itemvalue="certifi" />
+            <item index="79" class="java.lang.String" itemvalue="pywin32-ctypes" />
+            <item index="80" class="java.lang.String" itemvalue="netaddr" />
+            <item index="81" class="java.lang.String" itemvalue="gevent" />
+            <item index="82" class="java.lang.String" itemvalue="urllib3" />
+            <item index="83" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="84" class="java.lang.String" itemvalue="zope.event" />
+            <item index="85" class="java.lang.String" itemvalue="auto-py-to-exe" />
+            <item index="86" class="java.lang.String" itemvalue="pyinstaller" />
+            <item index="87" class="java.lang.String" itemvalue="six" />
+            <item index="88" class="java.lang.String" itemvalue="pytest" />
+            <item index="89" class="java.lang.String" itemvalue="iniconfig" />
+            <item index="90" class="java.lang.String" itemvalue="tzdata" />
+            <item index="91" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="92" class="java.lang.String" itemvalue="packaging" />
+            <item index="93" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="94" class="java.lang.String" itemvalue="Eel" />
+            <item index="95" class="java.lang.String" itemvalue="pefile" />
+            <item index="96" class="java.lang.String" itemvalue="pyinstaller-hooks-contrib" />
+            <item index="97" class="java.lang.String" itemvalue="pandas" />
+            <item index="98" class="java.lang.String" itemvalue="colorama" />
+            <item index="99" class="java.lang.String" itemvalue="future" />
+            <item index="100" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="101" class="java.lang.String" itemvalue="PySide6" />
+            <item index="102" class="java.lang.String" itemvalue="pytz" />
+            <item index="103" class="java.lang.String" itemvalue="bottle-websocket" />
+            <item index="104" class="java.lang.String" itemvalue="idna" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E221" />
+          <option value="E731" />
+          <option value="E741" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N803" />
+          <option value="N806" />
+          <option value="N813" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
