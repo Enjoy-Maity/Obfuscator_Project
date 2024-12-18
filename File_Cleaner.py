@@ -1,5 +1,11 @@
+"""
+|----------------------------------------------------------------------------------------------------------|
+|                    This script is to clean different files and modules in a project                      |
+|----------------------------------------------------------------------------------------------------------|
+"""
+
 import os
-import re
+import regex as re
 from tkinter import messagebox
 
 
@@ -52,5 +58,12 @@ class File_cleaner:
                 self.indices_to_remove.append(i)
 
             i += 1
+
+        if len(self.indices_to_remove) > 0:
+            for index in sorted(self.indices_to_remove, reverse=True):
+                del self.file_lines[index]
+
+        with open(self.destination_path, 'w') as file:
+            file.writelines(self.file_lines)
 
         self.remove_docstrings()
