@@ -44,3 +44,6 @@ class DataBase_Handler:
 
     def rollback_transaction(self):
         self.cursor.execute("ROLLBACK;")
+
+    def database_cleaner(self):
+        self.cursor.execute(f"DROP obfuscator_{self.table_name}.db;")
