@@ -9,7 +9,7 @@ import regex as re
 from tkinter import messagebox
 
 
-class File_cleaner:
+class File_Cleaner:
     def __init__(self, file_path, destination_path):
         self.file_path: str = file_path
         self.destination_path: str = destination_path

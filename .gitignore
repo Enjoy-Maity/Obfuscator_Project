@@ -1,3 +1,9 @@
+/venv
+/.idea
+/.vscode
+/.cache
+/build
+/dist
 /.venv
 /dist
 /build
